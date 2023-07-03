@@ -1,6 +1,6 @@
-# socialGeneralization - CogSci 2023 version
+# socialGeneralization - COSMOS
 
-  This repo contains the code and sample data from [Social learning with a grain of salt](https://psyarxiv.com/c3fuq/), which investigates how humans integrate social information that is not directly applicable to their own situation.
+  This repo contains the code and sample data for a [COSMOS 2023](https://cosmos-konstanz.github.io/) group project. The code and data are from [Social learning with a grain of salt](https://psyarxiv.com/c3fuq/), which investigates how humans integrate social information that is not directly applicable to their own situation.
   
 ## ./data
 
