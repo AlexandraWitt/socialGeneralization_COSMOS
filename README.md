@@ -27,5 +27,5 @@ has all code used for simulating and fitting data
 has analysis-related code
 
 - `CogSciAnalysis.R` has plotting for results plots and testing from the paper
-- `behav_measures.py` adds previous rewards and search distances to data (already run on the saved data), and saves data as a long dataframe for regression
-- `evoSimSynthesis.py` turns evoSim cluster output into one dataframe (already run)
+- `behav_measures.py` adds previous rewards and search distances to data (already run on the saved data), and saves data as a long dataframe for regression (needs to be run locally)
+- `evoSimSynthesis.py` turns evoSim cluster output into one dataframe (needs to be run locally)
