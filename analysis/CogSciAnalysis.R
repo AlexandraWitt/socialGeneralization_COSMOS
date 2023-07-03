@@ -18,7 +18,6 @@ library(sjPlot)
 library(cowplot)
 library(ggpubr)
 
-setwd("C:/PhD/Code/socialGeneralization_COSMOS")
 source('statisticalTests.R')
 saveAll <- F
 

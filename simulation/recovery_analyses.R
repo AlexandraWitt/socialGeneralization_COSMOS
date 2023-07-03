@@ -5,7 +5,6 @@ library(ggplot2)
 library(reshape)
 library(viridis)
 
-setwd("C:/PhD/Code/socialGeneralization_CogSci")
 source('statisticalTests.R')
 setwd("./Data/recovery_data/mrecov_VSmemII")
 
