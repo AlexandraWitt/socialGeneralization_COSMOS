@@ -21,6 +21,7 @@ has all code used for simulating and fitting data
 - `modelFitting.py` and `modelRecovery.py` are functions formatted to run the fitting routine on real and simulated data respectively
 - `fitting_synthesis.py` and `mrecov_parameteradd.py` format the raw data for further analysis
 - `recovery_analyses.R` plots model and parameter recovery plots
+- `evoSim.py` runs evolutionary simulations
 
 ## ./analysis
 
